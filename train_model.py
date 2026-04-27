@@ -1,5 +1,5 @@
 """
-DeliverIQ – Model Training Script
+DelivX – Model Training Script
 Run once to generate:
   - model.pkl
   - feature_columns.pkl
