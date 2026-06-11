@@ -137,20 +137,6 @@ DelivX helps organizations:
 
 ---
 
-## 🔮 Future Scope
-
-Future versions of DelivX can include:
-
-* AI-powered route optimization
-* Real-time traffic integration
-* Predictive delivery delay forecasting
-* Fleet utilization optimization
-* Carbon footprint tracking
-* Intelligent dispatch recommendation engine
-* Multi-model AI routing architecture
-
----
-
 ## 👨‍💻 Team
 
 Developed as part of an AI & Data Science project focused on solving real-world logistics and delivery optimization challenges.
